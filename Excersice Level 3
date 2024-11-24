@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name= "viewport" content= "width=device-width, initial-scale=1.0">
+    <title> Chocolate Chip Cookie Recipes </title>
+    <!-- our reference to css file-->
+    <link rel ="stylesheet" href ="style.css">
+</head>
+<body>
+    <!-- class name -->
+    <div class="container">
+        <!-- header -->
+        <h1>Chocolate Chip Cookies</h1>
+        <!-- image of cookies/recipe -->
+        <img src="https://laneandgreyfare.com/wp-content/uploads/2022/02/Small-Batch-Chocolate-Chip-Cookies-6.jpg" alt ="Chocolate Chip Cookies">
+        <!--Our ingredients paragraph-->
+        <p> Ingredients:</p>
+        <!-- unorganized list with bullet points of our ingredients-->
+        <ul>
+            <li>1 cup (2 sticks) unsalted butter, softened</li>
+            <li>1 cup granulated sugar</li>
+            <li>1 cup packed light brown sugar</li>
+            <li>2 large eggs</li>
+            <li>2 teaspoons vanilla extract</li>
+            <li>2 1/4 cups all-purpose flour</li>
+            <li>1 teaspoon baking soda</li>
+            <li>1/2 teaspoon salt</li>
+            <li>1 cup semisweet chocolate chips</li>
+        </ul>
+        <!-- our instructions on how to make cookies -->
+        <p>Instructions:</p>
+        <!-- ordered list - will be numbered, tells us what step to do when-->
+        <ol>
+            <li>Preheat your oven to 375 degree farenheit. </li>
+            <li>Blend together in a bowl your butter, granulated sugar, and brown sugar until light and fluffy.</li>
+            <li>Beat in eggs into the mixture one at a time, then add in vanilla extract.</li>
+            <li>Combine flour, baking soda, and salt in a seperate bowl; Gradually combine into butter mixture.</li>
+            <li>Add in  2 handfuls of chocolate chips.</li>
+            <li>Use an icecream scooper to scoop your cookie dough onto an ungreased baking sheets.</li>
+            <li>Bake cookies in the oven for 10-12 minutes, or until they are golden brown.</li>
+            <li>Let them cool off on the baking sheet for a few minutes after taking them out of the oven, then transferring to wire racks to cool completely.</li>
+        </ol>
+        <!-- close class -->
+    </div>
+    <!-- close body -->
+</body>
+<!-- close html-->
+</html>

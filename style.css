@@ -1,0 +1,29 @@
+body {
+    background-color: #333; /* Semi-dark background */
+    color: #fff; /* White text */
+    font-family: Arial, sans-serif; /*fonts for our text - heading and paragraph*/
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #333; /* Slightly darker container background */
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+ul, ol {
+    list-style-type: none;
+    color :#fff;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+    color: #fff;
+}
